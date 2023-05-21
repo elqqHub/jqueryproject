@@ -1,0 +1,1 @@
+Schoolproject in which the task is to create a program using jQuery. I decided to convert an earlier to-do list program into a jQuery version.
